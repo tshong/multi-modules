@@ -1,0 +1,2 @@
+com/icsc/mq/server/MQServer.java
+ com.icsc.mq.server.MQServer
